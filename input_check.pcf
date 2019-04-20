@@ -1,0 +1,20 @@
+set_io clk R9
+set_io y_out[0] B11
+set_io y_out[1] B10
+set_io y_out[2] B9
+set_io y_out[3] D8
+set_io y_out[4] L9
+set_io y_out[5] G5
+set_io y_out[6] L7
+set_io y_out[7] N6
+
+set_io x_in[0] B4
+set_io x_in[1] C3
+set_io x_in[2] A2
+set_io x_in[3] A5
+set_io x_in[4] B7
+set_io x_in[5] B6
+set_io x_in[6] B3
+set_io x_in[7] B5
+
+
