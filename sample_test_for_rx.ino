@@ -23,7 +23,7 @@ int z6 = digitalRead(12);
 int z7 = digitalRead(13);
 int no = (z7<<7)+(z6<<6)+(z5<<5)+(z4<<4)+(z3<<3)+(z2<<2)+(z1<<1)+z0;
 Serial.println(int(no));
-              delay(1000);
+            //  delay(1000);
   }
 
  // if(cc==0){
