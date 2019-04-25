@@ -7,10 +7,10 @@ void setup() {
   pinMode(11, OUTPUT);
   pinMode(12, OUTPUT);
   pinMode(13, OUTPUT);
-  Serial.begin(9600);                       // set the baud rate
+  //Serial.begin(9600);                       // set the baud rate
     }
    void loop(){
-int value=40;
+//int value=40;
     
         bool b7 = value%2;
         value = (value>>1);
