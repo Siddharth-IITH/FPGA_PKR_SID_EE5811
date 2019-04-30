@@ -9,3 +9,6 @@ enhanced or the noise reduced. Image processing is
 often used to prepare images prior to analysis. In the
 following work, we will be doing colour inversion
 of the image using FPGA and Arduino board.
+
+
+For Full Report, please check this pdf file: "FPGA_PKR_SID_REPORT.pdf"
